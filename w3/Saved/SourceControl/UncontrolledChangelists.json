@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/c1208951/Documents/Unreal Projects/w3/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/w3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/NF/CV7987C27EV9A3DXILDK5C.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/w3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/Y7/QDY68V5M5FV7891AAA3YVE.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/w3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/G2/6ATQQQ6429FF2W087SCC7C.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/w3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/XG/PXES2P1BTSYF2MSJIF38CQ.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/w3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/30/0S5MR9OEE418J93TGSK6LE.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/w3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/6N/IM8XYUQ4UJF5CQIPFL3SAT.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/w3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/AZ/QMULO7S24M1IA6CH19FTE5.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/w3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/YP/E69BVR29W57LH04OP2M5WC.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/w3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/GJ/HVGNGPUINSNE5YPU4BFMCV.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/w3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/w3/Content/Blueprints/actor_bp_1.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/w3/Content/Blueprints/actor_bp_2.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/w3/Content/Blueprints/bp_box_1.uasset"
+			]
+		}
+	]
+}
